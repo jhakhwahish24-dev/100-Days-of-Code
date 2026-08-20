@@ -58,3 +58,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 07: REST API Error Handling & Standards
+**Date:** August 20, 2026 (2026-08-20T16:19:27+05:30)
+
+- Standardized error response structure according to RFC 7807 (Problem Details).
+- Added middleware validation for Bearer token presence and format.
+- Prevented unhandled 500 exceptions on malformed requests.
+
+---
+
