@@ -265,3 +265,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 30: Caching Strategies & Invalidation
+**Date:** September 12, 2026 (2026-09-12T18:05:43+05:30)
+
+- Designed thread-safe LRU cache using `collections.OrderedDict`.
+- Added TTL expiration timestamp checks on cache hits.
+- Benchmarked cache hit ratio under synthetic high-concurrency workloads.
+
+---
+
