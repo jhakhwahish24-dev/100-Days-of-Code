@@ -283,3 +283,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 32: Python Memory Optimization with __slots__
+**Date:** September 14, 2026 (2026-09-14T18:20:57+05:30)
+
+- Replaced standard dict-backed attributes with `__slots__` for high-volume objects.
+- Observed ~35% memory footprint reduction during benchmark runs.
+- Documented immutability tradeoffs and inheritance behavior.
+
+---
+
