@@ -400,3 +400,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 45: Asyncio Task Management & Retries
+**Date:** September 27, 2026 (2026-09-27T14:05:07+05:30)
+
+- Built bounded asynchronous task runner using `asyncio.Queue`.
+- Integrated jittered exponential backoff for handling upstream rate limits (HTTP 429).
+- Added graceful shutdown handlers for cancellation signals.
+
+---
+
