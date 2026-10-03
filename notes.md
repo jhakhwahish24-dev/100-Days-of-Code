@@ -454,3 +454,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 51: Sliding Window & Two Pointers
+**Date:** October 03, 2026 (2026-10-03T11:43:11+05:30)
+
+- Explored variable vs. fixed window sizes.
+- Implemented `max_sub_array_len` with O(n) time and O(1) space complexity.
+- Solved edge cases around empty arrays and all-negative inputs.
+
+---
+
