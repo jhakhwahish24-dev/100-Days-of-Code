@@ -526,3 +526,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 59: CLI UX & Argument Parsing
+**Date:** October 11, 2026 (2026-10-11T17:09:21+05:30)
+
+- Refactored argument parser with subcommands and mutually exclusive flags.
+- Added rich help formatting and default fallback environment variables.
+- Verified input sanitization for repository paths.
+
+---
+
