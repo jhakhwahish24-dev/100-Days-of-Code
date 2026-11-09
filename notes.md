@@ -787,3 +787,12 @@ A log of daily algorithms, architecture concepts, code refactoring, and engineer
 
 ---
 
+## Day 88: Trees & Graph Traversal
+**Date:** November 09, 2026 (2026-11-09T18:00:12+05:30)
+
+- Implemented in-order, pre-order, and post-order depth-first traversals.
+- Created helper function to check if a binary search tree satisfies AVL balance criteria.
+- Analyzed recursion stack space complexity.
+
+---
+
